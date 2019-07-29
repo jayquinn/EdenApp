@@ -27,7 +27,6 @@ EdenLight is accutally the first ios version we released back to 2016. Together 
 EdenApp Thermal Comfort (ComCon)is a digital questionnaire app to collect personal comfort data. The app allows users to submit real-time thermal comfort feedback to let building energy manager know their subject feeling within their study spaces. After logged-in, in the home page, users could quickly do a survey which asks their thermal sensation, preference, satisfaction, metabolic rate, and clothing level. The result will be uploaded to a secure online database and will finally be used to correlate with environmental parameters. Users could also have a look at their previous votes in the history page and find out more information about thermal comfort in the profile page. The app is used as a research tool for student accomodation in University of Edinburgh since 2018. Heriot-Watt university joined the group later and use the app for elder people.
 
 ## Contact
-Feel free to ask me any questions
-Contact: yiqiang.zhao@ed.ac.uk
+Feel free to ask me any questions: yiqiang.zhao@ed.ac.uk
 
 
