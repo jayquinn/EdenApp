@@ -1,6 +1,6 @@
 # EdenApp
 Digital apps for environmental analysis
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 | Category        | Name          | Version  | App Store Link
 | -------------   |----------------| -----| ------|
