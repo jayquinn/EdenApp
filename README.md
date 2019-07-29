@@ -8,7 +8,7 @@ Digital apps for environmental analysis
 | `Research`| EdenApp Thermal Comfort| 1.3 |[:link:](https://apps.apple.com/gb/app/comcon-thermal-comfort/id1444880895)|
 
 ## Introduction
-**1. EdenApp Light Meter**
+### 1. EdenApp Light Meter
 <p align="center">
   <img src="/images/pro.png"  width="600"/>
 </p>
@@ -17,7 +17,7 @@ EdenLight Light Meter Pro is a mobile app to help you measure real-time illumina
 &nbsp;
 &nbsp;
 
-**2. EdenLight**
+### 2. EdenLight
 <p align="center">
   <img src="/images/edenlight.png"  width="600"/>
 </p>
@@ -26,7 +26,7 @@ EdenLight is accutally the first ios version we released back to 2016. Together 
 &nbsp;
 &nbsp;
  
-**3. EdenApp Thermal Comfort**
+### 3. EdenApp Thermal Comfort**
 <p align="center">
   <img src="/images/comcon.png"  width="600"/>
 </p>
