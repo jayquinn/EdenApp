@@ -1,8 +1,6 @@
 # EdenApp
 Digital apps for environmental analysis.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 | Category        | Name          | Version  | App Store Link
 | -------------   |----------------| -----| ------|
 | `Education` | EdenApp Light Meter Pro| 1.2 | [:link:](https://apps.apple.com/gb/app/edenapp-light-meter-pro/id1301790579)|
