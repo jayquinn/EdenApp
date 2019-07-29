@@ -7,5 +7,16 @@ Digital apps for environmental analysis
 | `Education`     | [EdenLight](https://apps.apple.com/gb/app/edenlight/id1171769299)      |   1.1 |
 | `Research` | [EdenApp Thermal Comfort](https://apps.apple.com/gb/app/comcon-thermal-comfort/id1444880895)     |    1.3 |
 
+1. EdenApp Light Meter
+
+
+2. EdenLight
+
+
+3. EdenApp Thermal Comfort
+
+
+
+Contact: yiqiang.zhao@ed.ac.uk
 
 
