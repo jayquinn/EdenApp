@@ -17,7 +17,9 @@ Digital apps for environmental analysis
 </p>
 
 3. EdenApp Thermal Comfort
-![alt text][/images/comcon.png]
+<p align="center">
+  <img src="/images/comcon.png"  width="600"/>
+</p>
 
 
 Contact: yiqiang.zhao@ed.ac.uk
