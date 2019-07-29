@@ -4,10 +4,11 @@ Digital apps for environmental analysis
 * Education
 * Research
 
-| Tables        | Are           | Cool  |
+| Category        | Name          | Version  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Education      | EdenApp Light Meter Pro | $1600 |
+| Education     | EdenLight      |   $12 |
+| Research | EdenApp Thermal Comfort     |    $1 |
+| Research | are neat      |    $1 |
 
 
