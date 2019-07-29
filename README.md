@@ -3,7 +3,7 @@ Digital apps for environmental analysis.
 
 | Category        | Name          | Version  | App Store Link
 | -------------   |----------------| -----| ------|
-| `Education` | [EdenApp Light Meter Pro](### EdenApp Light Meter Pro)| 1.2 | [:link:](https://apps.apple.com/gb/app/edenapp-light-meter-pro/id1301790579)|
+| `Education` | -[EdenApp Light Meter Pro](#EdenApp-Light-Meter-Pro)| 1.2 | [:link:](https://apps.apple.com/gb/app/edenapp-light-meter-pro/id1301790579)|
 | `Education`| EdenLight     |   1.1 |[:link:](https://apps.apple.com/gb/app/edenlight/id1171769299) |
 | `Research`| EdenApp Thermal Comfort| 1.3 |[:link:](https://apps.apple.com/gb/app/comcon-thermal-comfort/id1444880895)|
 
