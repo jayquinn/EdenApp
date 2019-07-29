@@ -1,7 +1,13 @@
 # EdenApp
-![](images/logo.png)
-#### Thermal Comfort| Lighting | Acoustics
 Digital apps for environmental analysis
-* easy
-* fast
-* low-cost
+
+* Education
+* Research
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
