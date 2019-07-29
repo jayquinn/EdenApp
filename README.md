@@ -12,10 +12,10 @@ Digital apps for environmental analysis
 
 
 2. EdenLight
-![alt text][/images/edenlight]
+![alt text][/images/edenlight.png]
 
 3. EdenApp Thermal Comfort
-![alt text][/images/comcon]
+![alt text][/images/comcon.png]
 
 
 Contact: yiqiang.zhao@ed.ac.uk
