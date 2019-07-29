@@ -14,14 +14,16 @@ Digital apps for environmental analysis
 </p>
 EdenLight Light Meter Pro is a mobile app to help you measure real-time illuminance (Lux) in different kinds of buildings. You could learn the basic knowledge of lighting such as what is illuminance and daylight factor, and perceive all these concepts with scientific metrics whereever you want.
 
-
+&nbsp;
+&nbsp;
 **2. EdenLight**
 <p align="center">
   <img src="/images/edenlight.png"  width="600"/>
 </p>
 EdenLight is accutally the first ios version we released back to 2016. Together with SensorTag, the app could provide a more accurate illuminance (lux) reading and help you make daylight factor calculation in field work much more easier.
  
- 
+&nbsp;
+&nbsp;
  
 **3. EdenApp Thermal Comfort**
 <p align="center">
@@ -31,6 +33,8 @@ EdenApp Thermal Comfort (ComCon)is a digital questionnaire app to collect person
 
 The app is used as a research tool for student accomodation in University of Edinburgh since 2018. Heriot-Watt university joined the group later and use the app for elder people.
 
+&nbsp;
+&nbsp;
 
 ## Contact
 Feel free to ask me any questions
