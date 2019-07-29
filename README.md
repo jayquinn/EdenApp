@@ -14,7 +14,7 @@ Digital apps for environmental analysis
 2. EdenLight
 EdenLight:
 
-<img align="center" src="/images/edenlight.png" alt="drawing" width="600"/>
+<img align="center" src="/images/edenlight.png"  width="600"/>
 3. EdenApp Thermal Comfort
 ![alt text][/images/comcon.png]
 
