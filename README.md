@@ -1,5 +1,5 @@
 # EdenApp
-Digital apps for environmental analysis.
+EdenApp are a series of digital **mobile apps** for environmental analysis, including lighting and thermal comfort.
 
 | Category        | Name          | Version  | App Store Link
 | -------------   |----------------| -----| ------|
